@@ -39,9 +39,9 @@
 
 ### 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=sakilaehmad-meman&show_icons=true&theme=default" alt="GitHub stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=sakilmemon&show_icons=true&theme=default" alt="GitHub stats"/>  
   <br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakilaehmad-meman&theme=default" alt="GitHub streak"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakilmemon&theme=default" alt="GitHub streak"/>  
 </p>  
 
 ---
